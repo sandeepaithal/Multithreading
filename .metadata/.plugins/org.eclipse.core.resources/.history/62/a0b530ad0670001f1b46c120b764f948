@@ -1,0 +1,5 @@
+package multithreading;
+
+public class Example5 extends Thread {
+	
+}
